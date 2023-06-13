@@ -1,0 +1,2 @@
+line electrode : x_start = 740, y_start = 660, x_end = 840, y_end = 310, id = 0;
+line electrode : x_start = 850, y_start = 290, x_end = 1410, y_end = 320, id = 0;
